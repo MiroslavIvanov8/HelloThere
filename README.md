@@ -65,21 +65,21 @@
 	</tr>
 	<tr>
 		<td>
-			<a href="https://softuni.bg/certificates/details/133629/4872a095">Basics</a>
+			<a href="https://softuni.bg/certificates/details/143646/28c6c916">Basics</a>
 		</td>
 		<td>Programming Basics with C#</td>
 		<td>
-      <a href="https://softuni.bg/certificates/details/169475/92ea7196">Advanced</a>
+      <a href="https://softuni.bg/certificates/details/166899/6ec48fa7">Advanced</a>
  </td>
 		<td>C# Advanced</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://softuni.bg/certificates/details/148840/7e24d91a" target="blank">Fundamentals</a>
+			<a href="https://softuni.bg/certificates/details/173530/9ca0c79f" target="blank">Fundamentals</a>
 		</td>
 		<td>Programming Fundamentals with C#</td>
 		<td>
-			<a href="https://softuni.bg/certificates/details/168790/091e7a75">OOP</a>
+			<a href="https://softuni.bg/certificates/details/181071/020561da">OOP</a>
 		</td>
 		<td>C# OOP</td>
 	</tr>
@@ -92,9 +92,7 @@
 	<tr>
 		<td>Soon</td>
 		<td>HTML & CSS</td>
-		<td>
-			<a href="https://softuni.bg/certificates/details/181316/fc9fe700">Front-End</a>
-		</td>
+		<td>Soon</td>
 		<td>JS Front-End</td>
 	</tr>
 	<tr>
