@@ -50,10 +50,10 @@
 ---
 
  ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gabcho3&theme=blueberry)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MiroslavIvanov8&theme=blueberry)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabcho3&layout=compact&theme=vision-friendly-dark))](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiroslavIvanov8&layout=compact&theme=vision-friendly-dark))](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📑My Certificates:
 <table border=2px>
