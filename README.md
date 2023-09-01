@@ -38,7 +38,7 @@
   </a>
   
   <a href="https://visualstudio.microsoft.com/">
-    <img src="https://seeklogo.com/images/V/visual-studio-logo-14F95CF819-seeklogo.com.png"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+    <img src="https://seeklogo.com/images/V/visual-studio-logo-14F95CF819-seeklogo.com.png"  title="VS2022" alt="CSS" width="40" height="40"/>&nbsp;
   </a>
   
   <a href="https://git-scm.com/">
