@@ -88,7 +88,9 @@
 			<a href="https://softuni.bg/certificates/details/185839/6d08eb8c" target="blank">MS SQL</a>
 		</td>
 		<td>MS SQL</td>
-		<td>Soon</td>
+		<td>
+			<a href="https://softuni.bg/certificates/details/194142/f1016e7c" target="blank">Entity Framework Core</a>
+		</td>
 		<td>Entity Framework Core</td>
 	</tr>
 	<tr>
@@ -99,7 +101,7 @@
 	</tr>
 	<tr>
 		<td>
-			<a href="https://softuni.bg/certificates/details/206730/eb3567f9" target="blank">ASP.NET Core Fundamentals</a>
+			<a href="https://softuni.bg/certificates/details/206730/eb3567f9" target="blank">ASP.NET Fundamentals</a>
 		</td>
 		<td>ASP.NET Fundamentals</td>
 		<td>Soon</td>
