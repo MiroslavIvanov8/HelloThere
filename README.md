@@ -98,7 +98,9 @@
 		<td>JS Front-End</td>
 	</tr>
 	<tr>
-		<td>Soon</td>
+		<td>
+			<a href="https://softuni.bg/certificates/details/206730/eb3567f9" target="blank">ASP.NET Core Fundamentals</a>
+		</td>
 		<td>ASP.NET Fundamentals</td>
 		<td>Soon</td>
 		<td>ASP.NET Advanced</td>
